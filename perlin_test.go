@@ -67,7 +67,7 @@ func TestLowZNoise3D(t *testing.T) {
 	}
 }
 
-func ExampleGenerator_Noise1D() {
+func ExampleGenerator_Noise2D() {
 	g1 := NewGenerator(2, 2, 1, 41)
 	g2 := NewGenerator(2, 2, 1, 4231)
 	fmt.Printf("g1 noise at 0.1, 0.2 = %f\n", g1.Noise2D(0.1, 0.2))
