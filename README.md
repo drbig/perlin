@@ -27,7 +27,7 @@ Using the included `perlin` command:
       -r=1417875091: random seed
       -s=1: scaling factor
       -w=320: image width
-    $ ./perlin -c -w 800 -h 600 -a 1.25 -b 1.88 -n 10 -r 1 test.png
+    $ ./perlin -c -a 1.25 -b 1.88 -n 10 -r 1 example.png
 
 ![Example output](https://raw.github.com/drbig/perlin/master/example.png)
 
