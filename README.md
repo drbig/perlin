@@ -1,4 +1,4 @@
-# perlin [![GoDoc](https://godoc.org/github.com/drbig/perlin?status.svg)](http://godoc.org/github.com/drbig/perlin)
+# perlin [![Build Status](https://travis-ci.org/drbig/perlin.svg?branch=master)](https://travis-ci.org/drbig/perlin) [![Coverage Status](https://img.shields.io/coveralls/drbig/perlin.svg)](https://coveralls.io/r/drbig/perlin?branch=master) [![GoDoc](https://godoc.org/github.com/drbig/perlin?status.svg)](http://godoc.org/github.com/drbig/perlin)
 
 Yet another Go library implementing Perlin noise.
 
